@@ -1,0 +1,6 @@
+com\mycompany\agendarpedido\resources\JakartaEE8Resource.class
+com\mycompany\servlets\Agendar.class
+com\mycompany\servlets\ShowOrdersServlet.class
+com\mycompany\agendarpedido\JakartaRestConfiguration.class
+conection.class
+com\mycompany\servlets\EliminarPedidoServlet.class
